@@ -5,6 +5,9 @@
 !README.md
 !LICENSE.md
 
+!.vscode
+!.vscode/*
+
 !options
 !options/*
 !options/*/*
