@@ -1,3 +1,3 @@
 # PyCharm Configuration
 
-> My settings for JetBrain's PyCharm IDE.
+> My settings for JetBrains' PyCharm IDE.
