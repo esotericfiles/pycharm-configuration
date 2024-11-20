@@ -24,6 +24,7 @@ options/other.xml
 options/recentProjects.xml
 options/updates.xml
 options/window.state.xml
+options/completion.factors.user.xml
 
 !bundled_plugins.txt
 
