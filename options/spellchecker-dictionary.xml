@@ -6,6 +6,7 @@
       <w>hitbox</w>
       <w>roly</w>
       <w>tickable</w>
+      <w>tickables</w>
     </words>
   </component>
 </application>
