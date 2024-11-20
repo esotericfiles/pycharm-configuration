@@ -4,6 +4,7 @@
       <w>attackable</w>
       <w>collidable</w>
       <w>hitbox</w>
+      <w>roly</w>
       <w>tickable</w>
     </words>
   </component>
