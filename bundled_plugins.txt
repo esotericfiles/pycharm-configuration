@@ -44,7 +44,7 @@ com.intellij.diagram|Other Tools
 
 com.intellij.ja|IDE Localization
 
-com.intellij.jsonpath|JavaScript Frameworks and Tools
+com.intellij.jsonpath|Languages
 
 com.intellij.ko|IDE Localization
 
@@ -57,6 +57,8 @@ com.intellij.llmInstaller|Other Tools
 com.intellij.microservices.ui|Microservices
 
 com.intellij.ml.inline.completion|null
+
+com.intellij.modules.json|Languages
 
 com.intellij.notebooks.core|null
 
@@ -126,7 +128,7 @@ com.jetbrains.restClient|Microservices
 
 com.jetbrains.sh|Languages
 
-gherkin|Languages
+com.jetbrains.station|null
 
 hg4idea|Version Controls
 
@@ -170,6 +172,8 @@ org.jetbrains.dbt|Database
 
 org.jetbrains.plugins.docker.gateway|Remote Development
 
+org.jetbrains.plugins.emojipicker|Other Tools
+
 org.jetbrains.plugins.github|Version Controls
 
 org.jetbrains.plugins.gitlab|Version Controls
@@ -193,8 +197,6 @@ org.jetbrains.plugins.textmate|Other Tools
 org.jetbrains.plugins.vagrant|Deployment
 
 org.jetbrains.plugins.vue|JavaScript Frameworks and Tools
-
-org.jetbrains.plugins.wsl.remoteSdk|null
 
 org.jetbrains.plugins.yaml|Languages
 
